@@ -11,4 +11,7 @@ $ pip install requests
 
 $ pip install cython
 
-$ rm -rf igprem
+$ pkg intall git
+$ git clone https://github.com/Iyee-Code/Crack-Ig
+$ cd Crack-Ig
+$ python igid_ec.py
