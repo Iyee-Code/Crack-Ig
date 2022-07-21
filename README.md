@@ -16,4 +16,4 @@ $ git clone https://github.com/Iyee-Code/Crack-Ig
 
 $ cd Crack-Ig
 
-$ python igid_ec.py
+$ python igid_enc.py
