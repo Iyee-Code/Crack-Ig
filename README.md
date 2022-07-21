@@ -13,5 +13,7 @@ $ pip install cython
 
 $ pkg intall git
 $ git clone https://github.com/Iyee-Code/Crack-Ig
+
 $ cd Crack-Ig
+
 $ python igid_ec.py
